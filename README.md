@@ -1,6 +1,6 @@
 <h1>Hi, I'm Antonio! <br/>Systems Administrator, Transitioning to Cloud Engineering, Aspiring Cybersecurity Professional</h1>
 
-<h2>👨‍💻 Systems Admin Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Antonio-Ringgold/ActiveDirectoryLab/blob/main/README.md)
 
