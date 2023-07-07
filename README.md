@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Systems Admin Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/Antonio-Ringgold/ActiveDirectoryLab/blob/main/README.md)
 
 <h2> Certifications</h2>
 
