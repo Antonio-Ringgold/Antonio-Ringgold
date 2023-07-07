@@ -1,4 +1,4 @@
-<h1>Hi, I'm Antonio! <br/><a href="https://github.com/joshmadakor1">Systems Administrator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Transitioning to Cloud Engineering</a>, <a href="https://www.youtube.com/c/joshmadakor">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Antonio! <br/>Systems Administrator, Transitioning to Cloud Engineering, Aspiring Cybersecurity Professional</h1>
 
 <h2>👨‍💻 Systems Admin Projects:</h2>
 
