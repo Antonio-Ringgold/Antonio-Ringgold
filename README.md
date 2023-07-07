@@ -5,6 +5,10 @@
   - [Active Directory Home Lab](https://github.com/Antonio-Ringgold/ActiveDirectoryLab/blob/main/README.md)
 
 <h2> Certifications</h2>
+  - A+ <br/>
+  - Net+ <br/>
+  - Security+ <br/>
+  - Linux+ <br/>
 
 
 
