@@ -7,6 +7,7 @@
   - [Adding Group Policy and Home Drive To Our AD Home Lab](https://github.com/Antonio-Ringgold/AddingGroupPolicyAndSharedDrives)
 - <b>Powershell</br>
   - [Disk Wipe Using the Powershell Command JWipe](https://github.com/Antonio-Ringgold/Diskpart/blob/main/README.md)
+  - [Active Directory User Account Creation](https://github.com/Antonio-Ringgold/UserCreation/blob/main/User_Account_Creation.ps1)
     
 <h2> Certifications</h2>
 
