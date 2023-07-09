@@ -3,6 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Antonio-Ringgold/ActiveDirectoryLab/blob/main/README.md)
+  - [Adding Group Policy and Home Drive To Our AD Home Lab](https://github.com/Antonio-Ringgold/AddingGroupPolicyAndSharedDrives)
 
 <h2> Certifications</h2>
   - A+ <br/>
