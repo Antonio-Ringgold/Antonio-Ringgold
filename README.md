@@ -2,10 +2,14 @@
 
 <h2>👨‍💻Projects:</h2>
 
+- <b>Active Directory</br>
   - [Active Directory Home Lab](https://github.com/Antonio-Ringgold/ActiveDirectoryLab/blob/main/README.md)
   - [Adding Group Policy and Home Drive To Our AD Home Lab](https://github.com/Antonio-Ringgold/AddingGroupPolicyAndSharedDrives)
-
+- <b>Powershell</br>
+  - [Disk Wipe Using the Powershell Command JWipe](https://github.com/Antonio-Ringgold/Diskpart/blob/main/README.md)
+    
 <h2> Certifications</h2>
+
   - A+ <br/>
   - Net+ <br/>
   - Security+ <br/>
