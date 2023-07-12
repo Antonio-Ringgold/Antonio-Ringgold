@@ -8,7 +8,8 @@
 - <b>Powershell</br>
   - [Disk Wipe Using the Powershell Command JWipe](https://github.com/Antonio-Ringgold/Diskpart/blob/main/README.md)
   - [Active Directory User Account Creation](https://github.com/Antonio-Ringgold/UserCreation/blob/main/User_Account_Creation.ps1)
-    
+- <b>Azure</br>
+  - [Azure Sentinel Failed RDP Map](https://github.com/Antonio-Ringgold/FailedRDP)
 <h2> Certifications</h2>
 
   - A+ <br/>
