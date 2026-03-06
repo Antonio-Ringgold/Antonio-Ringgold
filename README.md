@@ -1,4 +1,4 @@
-<h1>I'm Antonio Ringgold! <br/>Systems Administrator, Transitioning to Cloud Engineering, Aspiring Cybersecurity Professional</h1>
+<h1>I'm Antonio Ringgold! <br/>Systems/Cloud Administrator, Aspiring Cybersecurity Professional</h1>
 
 <h2>👨‍💻Projects:</h2>
 
